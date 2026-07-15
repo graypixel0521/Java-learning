@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+
+# 编译输出目录
+out/
+
+# Java 编译文件
+*.class
+
+# 日志
+*.log
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
